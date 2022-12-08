@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Supermoika",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Satpaeva",
+      "suite": "Apt. 556",
+      "city": "Almaty",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+7 77-777-77-77",
+    "company": {
+      "name": "TOO_CAR_WASHING_MONOPOLIST",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Hot_Moika",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Zharokova",
+      "suite": "Apt. 556",
+      "city": "Almaty",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+7 77-777-77-77",
+    "company": {
+      "name": "TOO_CAR_WASHING_MONOPOLIST",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Very_Hot_Moika",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Abaya",
+      "suite": "Apt. 556",
+      "city": "Almaty",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+7 77-777-77-77",
+    "company": {
+      "name": "TOO_CAR_WASHING_MONOPOLIST",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 4,
+    "name": "VeryVery_Hot_Moika",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Zharokova",
+      "suite": "Apt. 556",
+      "city": "Almaty",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+7 77-777-77-77",
+    "company": {
+      "name": "TOO_CAR_WASHING_MONOPOLIST",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Moika5",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Zharokova",
+      "suite": "Apt. 556",
+      "city": "Almaty",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+7 77-777-77-77",
+    "company": {
+      "name": "TOO_CAR_WASHING_MONOPOLIST",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Moika6",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Zharokova",
+      "suite": "Apt. 556",
+      "city": "Almaty",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+7 77-777-77-77",
+    "company": {
+      "name": "TOO_CAR_WASHING_MONOPOLIST",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  }
+]
